@@ -23,6 +23,8 @@ A website to display some of my projects I have created. This page was created t
 ## Known Bugs
 
 * Column lengths do not auto adjust to fill the space between columns
+* when hovering on an image the box shadow does not display properly
+
 
 ## License
 
