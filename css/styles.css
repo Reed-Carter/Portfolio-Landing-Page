@@ -1,6 +1,4 @@
-body {
-  background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-07.jpg);
-}
+
 
 h1 {
   text-align: center;
@@ -29,19 +27,19 @@ h3 {
 }
 
 .jumbotron {
-  background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-07.jpg);
+  background-image: url(https://cdn.searchassociates.com/img/background.jpg);
 }
 
 .card-body {
   width: 100%;
-  border-color: cadetblue;
+  border-color: rgb(168, 214, 216);
   border-width: 2px;
   float: left;
   margin: 1px;
   box-sizing: content-box;
   padding: 5px;
   height: auto;
-  background-color: rgb(125, 205, 211);
+  background-color: rgb(144, 184, 187);
   border-radius: 3px;
 }  
 
@@ -50,7 +48,7 @@ h3 {
   height: auto;
   float: right;
 }
- span.thumbnail {
+span.thumbnail {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
@@ -61,6 +59,10 @@ span.thumbnail img:hover {
   box-shadow: 0 0 20px 10px rgba(0, 28, 186, 0.5);
 }
 
- .heading2 {
+.heading2 {
   font-size: x-large;
+ }
+
+.container {
+  background-image: url(https://cdn.searchassociates.com/img/background.jpg);
  }
