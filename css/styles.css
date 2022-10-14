@@ -7,6 +7,16 @@ img {
     height: auto;
 }
 
+h2 {
+  font-size: larger;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: medium;
+  font-weight: bold;
+}
+
 .emphasize {
   color: darkred;
 }
@@ -21,19 +31,17 @@ img {
   padding: 10px;
   height: auto;
   background-color: cyan;
+  border-radius: 3px;
   }  
 
 .column1 {
   width: 100%;
   float: left;
   box-sizing: border-box;
-  height: 400px;
   }  
 
 .column2 {
   width: 100%;
   float: left;
   box-sizing: border-box;
-  height: 400px;
-
 }
