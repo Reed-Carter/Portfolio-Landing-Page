@@ -34,7 +34,7 @@ h3 {
 
 .card-body {
   width: 100%;
-  border: solid black;
+  border-color: cadetblue;
   border-width: 2px;
   float: left;
   margin: 1px;
