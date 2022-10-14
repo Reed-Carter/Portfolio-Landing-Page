@@ -1,5 +1,5 @@
-.container {
-  background-color: cadetblue;
+body {
+  background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-07.jpg);
 }
 
 h1 {
@@ -29,7 +29,7 @@ h3 {
 }
 
 .jumbotron {
-  background-color: cadetblue;
+  background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-07.jpg);
 }
 
 .card-body {
@@ -41,7 +41,7 @@ h3 {
   box-sizing: content-box;
   padding: 5px;
   height: auto;
-  background-color: darkseagreen;
+  background-color: rgb(125, 205, 211);
   border-radius: 3px;
 }  
 
