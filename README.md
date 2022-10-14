@@ -23,7 +23,7 @@ A website to display some of my projects I have created. This page was created t
 ## Known Bugs
 
 * Column lengths do not auto adjust to fill the space between columns
-
+* thumbnails used as hyperlinks do not show after being pushed to github pages
 ## License
 
 MIT License
