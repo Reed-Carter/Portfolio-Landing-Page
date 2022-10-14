@@ -1,3 +1,7 @@
+h1{
+  text-align: center;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -7,39 +11,29 @@ img {
   color: darkred;
 }
 
-.Aboutme {
+.card-body {
   width: 100%;
   float: left;
   border: solid black;
   border-width: 5px;
-  margin: 20px;
+  margin: 1px;
   box-sizing: border-box;
   padding: 10px;
   height: auto;
-  border-radius: 15px;
+  background-color: cyan;
   }  
 
 .column1 {
-  width: 300px;
+  width: 100%;
   float: left;
-  border: solid black;
-  border-width: 5px;
-  margin: 20px;
   box-sizing: border-box;
-  padding: 10px;
   height: 400px;
-  border-radius: 15px;
   }  
 
 .column2 {
-  width: 300px;
-  float: right;
-  border: solid black;
-  border-width: 5px;
-  margin: 20px;
+  width: 100%;
+  float: left;
   box-sizing: border-box;
-  padding: 10px;
   height: 400px;
-  border-radius: 15px;
 
 }
