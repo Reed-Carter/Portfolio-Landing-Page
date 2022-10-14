@@ -1,0 +1,33 @@
+.Aboutme {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+.column1 {
+  width: 300px;
+  float: left;
+  background-color:rgb(172, 22, 22);
+  border: solid black;
+  border-width: 5px;
+  margin: 12px;
+  box-sizing: border-box;
+  padding: 10px;
+  height: 600px;
+  border-radius: 15px;
+  }  
+
+  .column2 {
+    width: 300px;
+    float: left;
+    background-color:rgb(213, 236, 63);
+    border: solid black;
+    border-width: 5px;
+    margin: 12px;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 600px;
+    border-radius: 15px;
+  
+  }
