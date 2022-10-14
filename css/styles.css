@@ -1,3 +1,8 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .Aboutme {
   margin: 12px;
   border: 2px solid green;
